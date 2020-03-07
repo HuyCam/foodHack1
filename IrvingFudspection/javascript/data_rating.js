@@ -1,0 +1,52 @@
+let ratingData = [
+  {
+    COMPANY: 'AFC SUSHI @ TOM THUMB #3621',
+    PREVIOUS_SCORE: 'A',
+    LATEST_SCORE: 'A+'
+  },
+  {
+    COMPANY: 'PHO LEGACY',
+    PREVIOUS_SCORE: 'C',
+    LATEST_SCORE: 'C+'
+  },
+  {
+    COMPANY: 'ZEYTIN MEDITERRANEAN GRILL',
+    PREVIOUS_SCORE: 'C+',
+    LATEST_SCORE: 'B'
+  },
+  {
+    COMPANY: 'HOOTERS',
+    PREVIOUS_SCORE: 'B',
+    LATEST_SCORE: 'B+'
+  },
+  {
+    COMPANY: 'JERSEY MIKE\'S SUBS',
+    PREVIOUS_SCORE: 'B',
+    LATEST_SCORE: 'B+'
+  },
+  {
+    COMPANY: 'JERSEY MIKES SUBS',
+    PREVIOUS_SCORE: 'B',
+    LATEST_SCORE: 'B+'
+  },
+  {
+    COMPANY: 'JIMMY JOHN\'S GOURMET SANDWICHES',
+    PREVIOUS_SCORE: 'B+',
+    LATEST_SCORE: 'A'
+  },
+  {
+    COMPANY: 'JINBEH, INC',
+    PREVIOUS_SCORE: 'C+',
+    LATEST_SCORE: 'B'
+  },
+  {
+    COMPANY: 'KEG STEAKHOUSE & BAR, THE',
+    PREVIOUS_SCORE: 'B',
+    LATEST_SCORE: 'B+'
+  },
+  {
+    COMPANY: 'KORIYAKI',
+    PREVIOUS_SCORE: 'C+',
+    LATEST_SCORE: 'B'
+  }
+]
